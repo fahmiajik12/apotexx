@@ -4,6 +4,9 @@
         <p>
           <a href="index.php" style="color:white;">E-KATALOG</a> &copy; 2023
         </p>
+        <p>
+          <a href="index.php" style="color:white;">Mohammad Hadid Adzikri</a> &copy; 146221026
+        </p>
         <a href="#" class="go-top">
           <i class="fa fa-angle-up"></i>
         </a>
